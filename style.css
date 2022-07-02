@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(155, 153, 153);
+}
+#developer{
+    background-color: rgb(183, 183, 183);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+img:hover{
+border-radius: 120px;
+}
+
+img{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
